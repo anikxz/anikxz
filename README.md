@@ -63,7 +63,7 @@ DevOps Engineer @ Walton Hi-Tech Industries PLC
 - Standardized environment configs with Ansible  
 
 💻 **Previous Work**:  
-Python/Django Developer — JoyNewsBD  
+Python/Django Developer  
 - Built & deployed full-featured CMS  
 - Published content and SEO-optimized news posts
 
